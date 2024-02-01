@@ -1,0 +1,38 @@
+body{
+ margin: 0;  
+ padding: 0; 
+ background-color: white;
+ font-family: Georgia, 'Times New Roman', Times, serif
+}
+form{
+   width: 300px;
+    margin: 50px 70px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 3px;
+   box-shadow:0 0 10px gray ;
+   background-color: pink;
+
+}
+.form-group{
+    margin-bottom: 10px;
+   
+
+}
+label {
+    display:inline;
+    margin-bottom: 3px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+/* label.number1{
+    display: inline;
+    
+    
+
+} */
+.form-control{
+    font-size: large;
+    font-style: normal;
+
+
+}
